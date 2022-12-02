@@ -25,7 +25,7 @@
     box-sizing: border-box;
 }
 
-.attribution { font-size: 0.8rem; text-align: center; position: relative; top: 50px;}
+.attribution { font-size: 0.8rem; text-align: center; position: relative; top: 200px;}
 .attribution a { color: hsl(228, 45%, 44%); }
 
 body {
